@@ -1,0 +1,60 @@
+
+.secundaryBox{
+    display: flex;
+    align-items: center;
+    width: 254px;
+    height: 100px;
+    background-color: #252B43;
+    box-shadow: 0 8px 10px -5px rgba(0, 0, 0, 0.384);
+    border-radius: 8px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    margin-left: 20px;
+}
+
+
+
+.secundaryBox:hover{
+    transform: translateY(-5px);
+    box-shadow: 0 12px 15px -5px rgba(0, 0, 0, 0.5);
+}
+
+.label{
+    display: flex;
+    margin-bottom: 50px;
+    margin-left: 25px;
+    font-family: sans-serif;
+    color: #858896;
+}
+
+.icon{
+    display: flex;
+    margin-bottom: 45px ;
+    margin-left: 80px;
+}
+
+.number{
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    margin-left: 25px;
+    margin-top: 50px;
+    color: #FFFFFF;
+}
+
+.arrow{
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    margin-top: 60px;
+    margin-left: 170px;
+}
+
+.percent{
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 185px;
+    color: #399788;
+}
