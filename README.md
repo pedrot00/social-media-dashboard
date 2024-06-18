@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Social Media Dashboard
 
 ## Description
@@ -42,6 +43,8 @@ For more information, contact:
 - Email: pedrotex00santos@gmail.com
 - GitHub: pedrot00 (https://github.com/pedrot00)
 =======
+=======
+>>>>>>> 75816bae1a9faef791b0923ceb8d1cc15e1a7d78
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -112,4 +115,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<<<<<<< HEAD
 >>>>>>> 75816ba (criando repositorio)
+=======
+>>>>>>> 75816bae1a9faef791b0923ceb8d1cc15e1a7d78
